@@ -1,0 +1,17 @@
+<Sysmon schemaversion="0.00">
+  <HashAlgorithms>md5,sha256</HashAlgorithms>
+  <EventFiltering>
+    <NetworkConnect onmatch="exclude"/>
+    <CreateRemoteThread onmatch="include">
+      <TargetImage condition="image">explorer.exe</TargetImage>
+      <TargetImage condition="image">lsass.exe</TargetImage>
+      <TargetImage condition="image">services.exe</TargetImage>
+      <TargetImage condition="image">svchost.exe</TargetImage>
+      <TargetImage condition="image">winlogon.exe</TargetImage>
+    </CreateRemoteThread>
+    <RawAccessRead onmatch="exclude">
+      <Image condition="image">C:\Windows\Sysmon.exe</Image>
+      <Image condition="image">System</Image>
+    </RawAccessRead>
+  </EventFiltering>
+</Sysmon>

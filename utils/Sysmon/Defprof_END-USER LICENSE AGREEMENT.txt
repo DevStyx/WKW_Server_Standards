@@ -1,0 +1,22 @@
+END-USER LICENSE AGREEMENT
+
+IMPORTANT-READ CAREFULLY: This End-User License Agreement ("EULA") is a legal agreement between you (an individual or a single entity) and ForensiT for the ForensiT DefProf software later referred to as the 'SOFTWARE'. By installing, copying, or otherwise using the SOFTWARE, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE.
+
+SOFTWARE LICENSE
+The SOFTWARE is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE is licensed, not sold.
+
+1. GRANT AND TERM OF LICENSE. ForensiT grants you a personal, non-exclusive, non-transferable and royalty-free right to install and use any number of copies of the SOFTWARE on your devices. This License shall continue in effect until terminated by ForensiT, but shall terminate immediately at any time you fail to comply with the limitations set forth in this License.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS. All rights of any kind in the SOFTWARE which are not expressly granted in this License are entirely and exclusively reserved to and by ForensiT.  You may not rent, lease, modify, alter, translate, reverse engineer, disassemble, decompile or create derivative works based on the SOFTWARE, or remove any proprietary notices or labels that it contains.
+
+3 CHANGED TERMS.  ForensiT shall have the right to change or add to the terms of this License at any time and to change, discontinue, or impose conditions on any aspect of the SOFTWARE.  Such changes shall be effective upon notification by any means reasonable to give you actual or constructive notice or upon posting of such terms on the SOFTWARE.
+
+4. NO WARRANTIES. ForensiT expressly disclaims any warranty for the SOFTWARE.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE AND ANY RELATED DOCUMENTATION IS PROVIDED "AS IS" WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE REMAINS WITH YOU.
+
+NO LIABILITY FOR DAMAGES.  To the maximum extent permitted by applicable law, in no event shall ForensiT or its suppliers be liable for any damages whatsoever (including, without limitation, damages for loss of business profit, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of, or inability to use, this ForensiT product, even if ForensiT has been advised of the possibility of such damages. Because some states/jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.
+
+5. PUBLICITY 
+Unless You notify ForensiT otherwise in writing, You hereby grant to ForensiT a limited license to use Your trade and business names, trade marks, service marks, logos, domain names and other distinctive brand features (whether registered or not) (collectively, the “Brand Features”) in any presentations, marketing materials, customer lists, and financial reports produced for, by or on behalf of ForensiT.
+
+6. GENERAL . This License constitutes the entire agreement between you and ForensiT with respect to the SOFTWARE and supersedes any other agreement written or oral.  If any provision of this License is held unenforceable, that provision shall be enforced to the maximum extent permissible so as to give effect the intent of this License, and the remainder of this License shall continue in full force and effect.  This License shall be governed by the laws of the United Kingdom.
+

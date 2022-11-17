@@ -7,4 +7,4 @@ attrib +h "C:\WKW2K"
 New-Item -Path 'C:\WKW2K\scripts' -ItemType Directory
 New-Item -Path 'C:\WKW2K\utils' -ItemType Directory
 
-Invoke-WebRequest -Uri https://raw.githubusercontent.com/DevStyx/Wiki/master/Powershell/Restart-NetAdapter.ps1?token=GHSAT0AAAAAABZQXUGHFBDBXILDELJAZVJ2Y3V6CUA -OutFile C:\WKW2K\scripts\Restart-NetAdapter.ps1
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/DevStyx/WKW_Server_Standards/main/scripts/Restart-NetAdapter.ps1?token=GHSAT0AAAAAABZQXUGGUNQEFIM7QXPVK2FAY3V6OMQ -OutFile C:\WKW2K\scripts\Restart-NetAdapter.ps1
